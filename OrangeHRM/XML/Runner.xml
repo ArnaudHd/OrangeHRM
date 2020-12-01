@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE Suite SYSTEM "https//testng.org/testng-1.0.dtd">
+<Suite name="SmokeTest">
+	<test name="First test run">
+		<Classes>
+			<Class name="caseHooks.RunHooks" />
+		</Classes>
+	</test>
+</Suite>
